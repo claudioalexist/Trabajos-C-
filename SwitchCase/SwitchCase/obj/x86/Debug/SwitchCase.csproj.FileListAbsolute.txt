@@ -1,0 +1,12 @@
+/Users/claudiotapia/Desktop/HOla/SwitchCase/SwitchCase/bin/Debug/SwitchCase.exe
+/Users/claudiotapia/Desktop/HOla/SwitchCase/SwitchCase/bin/Debug/SwitchCase.pdb
+/Users/claudiotapia/Desktop/HOla/SwitchCase/SwitchCase/obj/x86/Debug/SwitchCase.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/SwitchCase/SwitchCase/obj/x86/Debug/SwitchCase.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/SwitchCase/SwitchCase/obj/x86/Debug/SwitchCase.exe
+/Users/claudiotapia/Desktop/HOla/SwitchCase/SwitchCase/obj/x86/Debug/SwitchCase.pdb
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/SwitchCase/SwitchCase/bin/Debug/SwitchCase.exe
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/SwitchCase/SwitchCase/bin/Debug/SwitchCase.pdb
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/SwitchCase/SwitchCase/obj/x86/Debug/SwitchCase.csproj.AssemblyReference.cache
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/SwitchCase/SwitchCase/obj/x86/Debug/SwitchCase.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/SwitchCase/SwitchCase/obj/x86/Debug/SwitchCase.exe
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/SwitchCase/SwitchCase/obj/x86/Debug/SwitchCase.pdb
