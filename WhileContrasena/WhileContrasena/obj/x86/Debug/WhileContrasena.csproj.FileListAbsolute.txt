@@ -1,0 +1,6 @@
+/Users/claudiotapia/Desktop/HOla/WhileContrasena/WhileContrasena/bin/Debug/WhileContrasena.exe
+/Users/claudiotapia/Desktop/HOla/WhileContrasena/WhileContrasena/bin/Debug/WhileContrasena.pdb
+/Users/claudiotapia/Desktop/HOla/WhileContrasena/WhileContrasena/obj/x86/Debug/WhileContrasena.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/WhileContrasena/WhileContrasena/obj/x86/Debug/WhileContrasena.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/WhileContrasena/WhileContrasena/obj/x86/Debug/WhileContrasena.exe
+/Users/claudiotapia/Desktop/HOla/WhileContrasena/WhileContrasena/obj/x86/Debug/WhileContrasena.pdb
