@@ -1,0 +1,11 @@
+/Users/claudiotapia/Desktop/HOla/MuestranumeroMayorMenor/MuestranumeroMayorMenor/bin/Debug/netcoreapp2.2/MuestranumeroMayorMenor.deps.json
+/Users/claudiotapia/Desktop/HOla/MuestranumeroMayorMenor/MuestranumeroMayorMenor/bin/Debug/netcoreapp2.2/MuestranumeroMayorMenor.runtimeconfig.json
+/Users/claudiotapia/Desktop/HOla/MuestranumeroMayorMenor/MuestranumeroMayorMenor/bin/Debug/netcoreapp2.2/MuestranumeroMayorMenor.runtimeconfig.dev.json
+/Users/claudiotapia/Desktop/HOla/MuestranumeroMayorMenor/MuestranumeroMayorMenor/bin/Debug/netcoreapp2.2/MuestranumeroMayorMenor.dll
+/Users/claudiotapia/Desktop/HOla/MuestranumeroMayorMenor/MuestranumeroMayorMenor/bin/Debug/netcoreapp2.2/MuestranumeroMayorMenor.pdb
+/Users/claudiotapia/Desktop/HOla/MuestranumeroMayorMenor/MuestranumeroMayorMenor/obj/Debug/netcoreapp2.2/MuestranumeroMayorMenor.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/MuestranumeroMayorMenor/MuestranumeroMayorMenor/obj/Debug/netcoreapp2.2/MuestranumeroMayorMenor.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/MuestranumeroMayorMenor/MuestranumeroMayorMenor/obj/Debug/netcoreapp2.2/MuestranumeroMayorMenor.AssemblyInfoInputs.cache
+/Users/claudiotapia/Desktop/HOla/MuestranumeroMayorMenor/MuestranumeroMayorMenor/obj/Debug/netcoreapp2.2/MuestranumeroMayorMenor.AssemblyInfo.cs
+/Users/claudiotapia/Desktop/HOla/MuestranumeroMayorMenor/MuestranumeroMayorMenor/obj/Debug/netcoreapp2.2/MuestranumeroMayorMenor.dll
+/Users/claudiotapia/Desktop/HOla/MuestranumeroMayorMenor/MuestranumeroMayorMenor/obj/Debug/netcoreapp2.2/MuestranumeroMayorMenor.pdb
