@@ -1,0 +1,6 @@
+/Users/claudiotapia/Desktop/HOla/contadorFor/contadorFor/bin/Debug/contadorFor.exe
+/Users/claudiotapia/Desktop/HOla/contadorFor/contadorFor/bin/Debug/contadorFor.pdb
+/Users/claudiotapia/Desktop/HOla/contadorFor/contadorFor/obj/x86/Debug/contadorFor.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/contadorFor/contadorFor/obj/x86/Debug/contadorFor.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/contadorFor/contadorFor/obj/x86/Debug/contadorFor.exe
+/Users/claudiotapia/Desktop/HOla/contadorFor/contadorFor/obj/x86/Debug/contadorFor.pdb

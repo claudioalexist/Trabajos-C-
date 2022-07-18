@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EDFCEA99-E074-498D-94EA-857CEAE5576B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="contadorFor/Program.cs">
+    <Files>
+      <File FileName="contadorFor/Program.cs" Line="29" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.contadorFor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
