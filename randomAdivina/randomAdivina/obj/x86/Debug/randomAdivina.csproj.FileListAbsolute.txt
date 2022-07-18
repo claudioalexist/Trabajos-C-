@@ -1,0 +1,12 @@
+/Users/claudiotapia/Desktop/HOla/randomAdivina/randomAdivina/bin/Debug/randomAdivina.exe
+/Users/claudiotapia/Desktop/HOla/randomAdivina/randomAdivina/bin/Debug/randomAdivina.pdb
+/Users/claudiotapia/Desktop/HOla/randomAdivina/randomAdivina/obj/x86/Debug/randomAdivina.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/randomAdivina/randomAdivina/obj/x86/Debug/randomAdivina.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/randomAdivina/randomAdivina/obj/x86/Debug/randomAdivina.exe
+/Users/claudiotapia/Desktop/HOla/randomAdivina/randomAdivina/obj/x86/Debug/randomAdivina.pdb
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/randomAdivina/randomAdivina/bin/Debug/randomAdivina.exe
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/randomAdivina/randomAdivina/bin/Debug/randomAdivina.pdb
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/randomAdivina/randomAdivina/obj/x86/Debug/randomAdivina.csproj.AssemblyReference.cache
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/randomAdivina/randomAdivina/obj/x86/Debug/randomAdivina.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/randomAdivina/randomAdivina/obj/x86/Debug/randomAdivina.exe
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/randomAdivina/randomAdivina/obj/x86/Debug/randomAdivina.pdb
