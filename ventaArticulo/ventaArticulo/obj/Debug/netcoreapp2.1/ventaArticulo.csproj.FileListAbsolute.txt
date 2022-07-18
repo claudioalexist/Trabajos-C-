@@ -1,0 +1,11 @@
+/Users/claudiotapia/Desktop/HOla/ventaArticulo/ventaArticulo/bin/Debug/netcoreapp2.1/ventaArticulo.deps.json
+/Users/claudiotapia/Desktop/HOla/ventaArticulo/ventaArticulo/bin/Debug/netcoreapp2.1/ventaArticulo.runtimeconfig.json
+/Users/claudiotapia/Desktop/HOla/ventaArticulo/ventaArticulo/bin/Debug/netcoreapp2.1/ventaArticulo.runtimeconfig.dev.json
+/Users/claudiotapia/Desktop/HOla/ventaArticulo/ventaArticulo/bin/Debug/netcoreapp2.1/ventaArticulo.dll
+/Users/claudiotapia/Desktop/HOla/ventaArticulo/ventaArticulo/bin/Debug/netcoreapp2.1/ventaArticulo.pdb
+/Users/claudiotapia/Desktop/HOla/ventaArticulo/ventaArticulo/obj/Debug/netcoreapp2.1/ventaArticulo.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/ventaArticulo/ventaArticulo/obj/Debug/netcoreapp2.1/ventaArticulo.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/ventaArticulo/ventaArticulo/obj/Debug/netcoreapp2.1/ventaArticulo.AssemblyInfoInputs.cache
+/Users/claudiotapia/Desktop/HOla/ventaArticulo/ventaArticulo/obj/Debug/netcoreapp2.1/ventaArticulo.AssemblyInfo.cs
+/Users/claudiotapia/Desktop/HOla/ventaArticulo/ventaArticulo/obj/Debug/netcoreapp2.1/ventaArticulo.dll
+/Users/claudiotapia/Desktop/HOla/ventaArticulo/ventaArticulo/obj/Debug/netcoreapp2.1/ventaArticulo.pdb

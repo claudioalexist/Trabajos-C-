@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AA0EBEE2-A075-49A1-83D1-211D61B6CE13}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ventaArticulo/Program.cs">
+    <Files>
+      <File FileName="ventaArticulo/Program.cs" Line="23" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ventaArticulo" expanded="True">
+            <Node name="ventaArticulo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ventaArticulo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ventaArticulo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
