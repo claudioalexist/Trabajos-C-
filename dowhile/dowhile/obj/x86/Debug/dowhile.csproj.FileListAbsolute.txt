@@ -1,0 +1,6 @@
+/Users/claudiotapia/Desktop/HOla/dowhile/dowhile/bin/Debug/dowhile.exe
+/Users/claudiotapia/Desktop/HOla/dowhile/dowhile/bin/Debug/dowhile.pdb
+/Users/claudiotapia/Desktop/HOla/dowhile/dowhile/obj/x86/Debug/dowhile.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/dowhile/dowhile/obj/x86/Debug/dowhile.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/dowhile/dowhile/obj/x86/Debug/dowhile.exe
+/Users/claudiotapia/Desktop/HOla/dowhile/dowhile/obj/x86/Debug/dowhile.pdb
