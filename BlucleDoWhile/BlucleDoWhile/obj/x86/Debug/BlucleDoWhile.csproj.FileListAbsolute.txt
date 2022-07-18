@@ -1,0 +1,6 @@
+/Users/claudiotapia/Desktop/HOla/BlucleDoWhile/BlucleDoWhile/obj/x86/Debug/BlucleDoWhile.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/BlucleDoWhile/BlucleDoWhile/obj/x86/Debug/BlucleDoWhile.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/BlucleDoWhile/BlucleDoWhile/bin/Debug/BlucleDoWhile.exe
+/Users/claudiotapia/Desktop/HOla/BlucleDoWhile/BlucleDoWhile/bin/Debug/BlucleDoWhile.pdb
+/Users/claudiotapia/Desktop/HOla/BlucleDoWhile/BlucleDoWhile/obj/x86/Debug/BlucleDoWhile.exe
+/Users/claudiotapia/Desktop/HOla/BlucleDoWhile/BlucleDoWhile/obj/x86/Debug/BlucleDoWhile.pdb

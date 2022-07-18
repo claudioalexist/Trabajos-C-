@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F4B3B04B-46D7-40B5-91DB-184321E72649}|Default">
+  <MonoDevelop.Ide.ItemProperties.BlucleDoWhile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlucleDoWhile/Program.cs">
+    <Files>
+      <File FileName="BlucleDoWhile/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlucleDoWhile" expanded="True">
+            <Node name="BlucleDoWhile" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
