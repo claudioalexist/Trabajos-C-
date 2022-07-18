@@ -1,0 +1,11 @@
+/Users/claudiotapia/Desktop/HOla/Array/Array/bin/Debug/netcoreapp2.2/Array.deps.json
+/Users/claudiotapia/Desktop/HOla/Array/Array/bin/Debug/netcoreapp2.2/Array.runtimeconfig.json
+/Users/claudiotapia/Desktop/HOla/Array/Array/bin/Debug/netcoreapp2.2/Array.runtimeconfig.dev.json
+/Users/claudiotapia/Desktop/HOla/Array/Array/bin/Debug/netcoreapp2.2/Array.dll
+/Users/claudiotapia/Desktop/HOla/Array/Array/bin/Debug/netcoreapp2.2/Array.pdb
+/Users/claudiotapia/Desktop/HOla/Array/Array/obj/Debug/netcoreapp2.2/Array.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/Array/Array/obj/Debug/netcoreapp2.2/Array.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/Array/Array/obj/Debug/netcoreapp2.2/Array.AssemblyInfoInputs.cache
+/Users/claudiotapia/Desktop/HOla/Array/Array/obj/Debug/netcoreapp2.2/Array.AssemblyInfo.cs
+/Users/claudiotapia/Desktop/HOla/Array/Array/obj/Debug/netcoreapp2.2/Array.dll
+/Users/claudiotapia/Desktop/HOla/Array/Array/obj/Debug/netcoreapp2.2/Array.pdb

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{FE8DF5AF-F775-4CFF-B975-7731936ACEF5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Array PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../numeroMayorMenorArray/numeroMayorMenorArray/Program.cs">
+    <Files>
+      <File FileName="Array/Program.cs" Line="1" Column="1" />
+      <File FileName="../numeroMayorMenorArray/numeroMayorMenorArray/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Array" expanded="True">
+            <Node name="Array" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
