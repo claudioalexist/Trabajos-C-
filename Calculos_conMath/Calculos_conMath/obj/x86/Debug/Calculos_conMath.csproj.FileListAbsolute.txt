@@ -1,0 +1,6 @@
+/Users/claudiotapia/Desktop/HOla/Calculos_conMath/Calculos_conMath/bin/Debug/Calculos_conMath.exe
+/Users/claudiotapia/Desktop/HOla/Calculos_conMath/Calculos_conMath/bin/Debug/Calculos_conMath.pdb
+/Users/claudiotapia/Desktop/HOla/Calculos_conMath/Calculos_conMath/obj/x86/Debug/Calculos_conMath.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/Calculos_conMath/Calculos_conMath/obj/x86/Debug/Calculos_conMath.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/Calculos_conMath/Calculos_conMath/obj/x86/Debug/Calculos_conMath.exe
+/Users/claudiotapia/Desktop/HOla/Calculos_conMath/Calculos_conMath/obj/x86/Debug/Calculos_conMath.pdb
