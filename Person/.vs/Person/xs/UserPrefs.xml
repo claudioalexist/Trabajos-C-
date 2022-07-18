@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{377988B0-3123-410D-B248-EA9AC8D22646}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Person/TestPerson.cs">
+    <Files>
+      <File FileName="Person/Program.cs" Line="28" Column="1" NotebookId="1" />
+      <File FileName="Person/Metodos.cs" NotebookId="1" />
+      <File FileName="Person/TestPerson.cs" Line="26" Column="23" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Person" expanded="True">
+            <Node name="Person" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="TestPerson.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Person PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

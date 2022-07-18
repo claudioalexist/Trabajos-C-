@@ -1,0 +1,12 @@
+/Users/claudiotapia/Desktop/HOla/Person/Person/obj/x86/Debug/Person.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/Person/Person/obj/x86/Debug/Person.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/Person/Person/bin/Debug/Person.exe
+/Users/claudiotapia/Desktop/HOla/Person/Person/bin/Debug/Person.pdb
+/Users/claudiotapia/Desktop/HOla/Person/Person/obj/x86/Debug/Person.exe
+/Users/claudiotapia/Desktop/HOla/Person/Person/obj/x86/Debug/Person.pdb
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/Person/Person/bin/Debug/Person.exe
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/Person/Person/bin/Debug/Person.pdb
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/Person/Person/obj/x86/Debug/Person.csproj.AssemblyReference.cache
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/Person/Person/obj/x86/Debug/Person.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/Person/Person/obj/x86/Debug/Person.exe
+/Users/claudiotapia/Documents/GitHub/trabajos/HOla/Person/Person/obj/x86/Debug/Person.pdb
