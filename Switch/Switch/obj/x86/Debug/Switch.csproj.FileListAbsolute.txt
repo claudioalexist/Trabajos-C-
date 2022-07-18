@@ -1,0 +1,6 @@
+/Users/claudiotapia/Desktop/HOla/Switch/Switch/bin/Debug/Switch.exe
+/Users/claudiotapia/Desktop/HOla/Switch/Switch/bin/Debug/Switch.pdb
+/Users/claudiotapia/Desktop/HOla/Switch/Switch/obj/x86/Debug/Switch.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/Switch/Switch/obj/x86/Debug/Switch.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/Switch/Switch/obj/x86/Debug/Switch.exe
+/Users/claudiotapia/Desktop/HOla/Switch/Switch/obj/x86/Debug/Switch.pdb
