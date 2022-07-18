@@ -1,0 +1,6 @@
+/Users/claudiotapia/Desktop/HOla/Condicionalesanidadas/Condicionalesanidadas/bin/Debug/Condicionalesanidadas.exe
+/Users/claudiotapia/Desktop/HOla/Condicionalesanidadas/Condicionalesanidadas/bin/Debug/Condicionalesanidadas.pdb
+/Users/claudiotapia/Desktop/HOla/Condicionalesanidadas/Condicionalesanidadas/obj/x86/Debug/Condicionalesanidadas.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/Condicionalesanidadas/Condicionalesanidadas/obj/x86/Debug/Condicionalesanidadas.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/Condicionalesanidadas/Condicionalesanidadas/obj/x86/Debug/Condicionalesanidadas.exe
+/Users/claudiotapia/Desktop/HOla/Condicionalesanidadas/Condicionalesanidadas/obj/x86/Debug/Condicionalesanidadas.pdb
