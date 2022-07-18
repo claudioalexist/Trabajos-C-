@@ -1,0 +1,6 @@
+/Users/claudiotapia/Desktop/HOla/PrimerosPasos/PrimerosPasos/bin/Debug/PrimerosPasos.exe
+/Users/claudiotapia/Desktop/HOla/PrimerosPasos/PrimerosPasos/bin/Debug/PrimerosPasos.pdb
+/Users/claudiotapia/Desktop/HOla/PrimerosPasos/PrimerosPasos/obj/x86/Debug/PrimerosPasos.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/PrimerosPasos/PrimerosPasos/obj/x86/Debug/PrimerosPasos.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/PrimerosPasos/PrimerosPasos/obj/x86/Debug/PrimerosPasos.exe
+/Users/claudiotapia/Desktop/HOla/PrimerosPasos/PrimerosPasos/obj/x86/Debug/PrimerosPasos.pdb

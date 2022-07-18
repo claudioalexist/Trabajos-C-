@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{EAA15E90-661E-45A7-87B1-92BC5DA715D7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrimerosPasos/Program.cs">
+    <Files>
+      <File FileName="PrimerosPasos/Program.cs" Line="20" Column="14" NotebookId="1" />
+      <File FileName="PrimerosPasos/Variables.cs" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrimerosPasos" expanded="True">
+            <Node name="PrimerosPasos" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PrimerosPasos PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
