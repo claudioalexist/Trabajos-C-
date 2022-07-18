@@ -1,0 +1,6 @@
+/Users/claudiotapia/Desktop/HOla/condicionyy/condicionyy/bin/Debug/condicionyy.exe
+/Users/claudiotapia/Desktop/HOla/condicionyy/condicionyy/bin/Debug/condicionyy.pdb
+/Users/claudiotapia/Desktop/HOla/condicionyy/condicionyy/obj/x86/Debug/condicionyy.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/condicionyy/condicionyy/obj/x86/Debug/condicionyy.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/condicionyy/condicionyy/obj/x86/Debug/condicionyy.exe
+/Users/claudiotapia/Desktop/HOla/condicionyy/condicionyy/obj/x86/Debug/condicionyy.pdb
