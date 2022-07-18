@@ -1,0 +1,12 @@
+/Users/claudiotapia/Desktop/HOla/ReadLine/ReadLine/bin/Debug/ReadLine.exe
+/Users/claudiotapia/Desktop/HOla/ReadLine/ReadLine/bin/Debug/ReadLine.pdb
+/Users/claudiotapia/Desktop/HOla/ReadLine/ReadLine/obj/x86/Debug/ReadLine.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/ReadLine/ReadLine/obj/x86/Debug/ReadLine.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/ReadLine/ReadLine/obj/x86/Debug/ReadLine.exe
+/Users/claudiotapia/Desktop/HOla/ReadLine/ReadLine/obj/x86/Debug/ReadLine.pdb
+/Users/claudiotapia/Desktop/Git/Trabajos-Java/ReadLine/ReadLine/bin/Debug/ReadLine.exe
+/Users/claudiotapia/Desktop/Git/Trabajos-Java/ReadLine/ReadLine/bin/Debug/ReadLine.pdb
+/Users/claudiotapia/Desktop/Git/Trabajos-Java/ReadLine/ReadLine/obj/x86/Debug/ReadLine.csproj.AssemblyReference.cache
+/Users/claudiotapia/Desktop/Git/Trabajos-Java/ReadLine/ReadLine/obj/x86/Debug/ReadLine.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/Git/Trabajos-Java/ReadLine/ReadLine/obj/x86/Debug/ReadLine.exe
+/Users/claudiotapia/Desktop/Git/Trabajos-Java/ReadLine/ReadLine/obj/x86/Debug/ReadLine.pdb
