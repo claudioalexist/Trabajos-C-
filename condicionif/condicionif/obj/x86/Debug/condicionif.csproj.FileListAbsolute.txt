@@ -1,0 +1,6 @@
+/Users/claudiotapia/Desktop/HOla/condicionif/condicionif/bin/Debug/condicionif.exe
+/Users/claudiotapia/Desktop/HOla/condicionif/condicionif/bin/Debug/condicionif.pdb
+/Users/claudiotapia/Desktop/HOla/condicionif/condicionif/obj/x86/Debug/condicionif.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/condicionif/condicionif/obj/x86/Debug/condicionif.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/condicionif/condicionif/obj/x86/Debug/condicionif.exe
+/Users/claudiotapia/Desktop/HOla/condicionif/condicionif/obj/x86/Debug/condicionif.pdb
