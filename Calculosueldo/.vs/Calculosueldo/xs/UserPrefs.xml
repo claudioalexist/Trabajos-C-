@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{74FC4D0B-6E08-4838-B3D7-800D1CA13398}|Default">
+  <MonoDevelop.Ide.ItemProperties.Calculosueldo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculosueldo/suma.cs">
+    <Files>
+      <File FileName="Calculosueldo/Calculosueldo.cs" Line="1" Column="1" />
+      <File FileName="Calculosueldo/SuperficieCuadrado.cs" Line="1" Column="1" />
+      <File FileName="Calculosueldo/suma.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Calculosueldo" expanded="True">
+            <Node name="Calculosueldo" expanded="True">
+              <Node name="suma.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

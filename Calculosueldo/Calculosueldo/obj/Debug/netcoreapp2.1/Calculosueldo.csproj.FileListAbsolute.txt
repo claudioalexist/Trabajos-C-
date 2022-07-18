@@ -1,0 +1,13 @@
+/Users/claudiotapia/Desktop/HOla/Calculosueldo/Calculosueldo/obj/Debug/netcoreapp2.1/Calculosueldo.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/Calculosueldo/Calculosueldo/obj/Debug/netcoreapp2.1/Calculosueldo.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/Calculosueldo/Calculosueldo/obj/Debug/netcoreapp2.1/Calculosueldo.AssemblyInfoInputs.cache
+/Users/claudiotapia/Desktop/HOla/Calculosueldo/Calculosueldo/obj/Debug/netcoreapp2.1/Calculosueldo.AssemblyInfo.cs
+/Users/claudiotapia/Desktop/HOla/Calculosueldo/Calculosueldo/bin/Debug/netcoreapp2.1/Calculosueldo.deps.json
+/Users/claudiotapia/Desktop/HOla/Calculosueldo/Calculosueldo/bin/Debug/netcoreapp2.1/Calculosueldo.runtimeconfig.json
+/Users/claudiotapia/Desktop/HOla/Calculosueldo/Calculosueldo/bin/Debug/netcoreapp2.1/Calculosueldo.runtimeconfig.dev.json
+/Users/claudiotapia/Desktop/HOla/Calculosueldo/Calculosueldo/bin/Debug/netcoreapp2.1/Calculosueldo.dll
+/Users/claudiotapia/Desktop/HOla/Calculosueldo/Calculosueldo/bin/Debug/netcoreapp2.1/Calculosueldo.pdb
+/Users/claudiotapia/Desktop/HOla/Calculosueldo/Calculosueldo/obj/Debug/netcoreapp2.1/Calculosueldo.dll
+/Users/claudiotapia/Desktop/HOla/Calculosueldo/Calculosueldo/obj/Debug/netcoreapp2.1/Calculosueldo.pdb
+/Users/claudiotapia/Desktop/HOla/Calculosueldo/Calculosueldo/bin/Debug/netcoreapp2.1/suma.cs
+/Users/claudiotapia/Desktop/HOla/Calculosueldo/Calculosueldo/bin/Debug/netcoreapp2.1/SuperficieCuadrado.cs
