@@ -1,0 +1,12 @@
+/Users/claudiotapia/Desktop/HOla/problemaWhile/problemaWhile/bin/Debug/problemaWhile.exe
+/Users/claudiotapia/Desktop/HOla/problemaWhile/problemaWhile/bin/Debug/problemaWhile.pdb
+/Users/claudiotapia/Desktop/HOla/problemaWhile/problemaWhile/obj/x86/Debug/problemaWhile.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/problemaWhile/problemaWhile/obj/x86/Debug/problemaWhile.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/problemaWhile/problemaWhile/obj/x86/Debug/problemaWhile.exe
+/Users/claudiotapia/Desktop/HOla/problemaWhile/problemaWhile/obj/x86/Debug/problemaWhile.pdb
+/Users/claudiotapia/Desktop/Git/Trabajos-Java/problemaWhile/problemaWhile/bin/Debug/problemaWhile.exe
+/Users/claudiotapia/Desktop/Git/Trabajos-Java/problemaWhile/problemaWhile/bin/Debug/problemaWhile.pdb
+/Users/claudiotapia/Desktop/Git/Trabajos-Java/problemaWhile/problemaWhile/obj/x86/Debug/problemaWhile.csproj.AssemblyReference.cache
+/Users/claudiotapia/Desktop/Git/Trabajos-Java/problemaWhile/problemaWhile/obj/x86/Debug/problemaWhile.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/Git/Trabajos-Java/problemaWhile/problemaWhile/obj/x86/Debug/problemaWhile.exe
+/Users/claudiotapia/Desktop/Git/Trabajos-Java/problemaWhile/problemaWhile/obj/x86/Debug/problemaWhile.pdb
