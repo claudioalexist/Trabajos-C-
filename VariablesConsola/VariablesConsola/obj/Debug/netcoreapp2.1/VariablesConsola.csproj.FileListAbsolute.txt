@@ -1,0 +1,11 @@
+/Users/claudiotapia/Desktop/HOla/VariablesConsola/VariablesConsola/bin/Debug/netcoreapp2.1/VariablesConsola.deps.json
+/Users/claudiotapia/Desktop/HOla/VariablesConsola/VariablesConsola/bin/Debug/netcoreapp2.1/VariablesConsola.runtimeconfig.json
+/Users/claudiotapia/Desktop/HOla/VariablesConsola/VariablesConsola/bin/Debug/netcoreapp2.1/VariablesConsola.runtimeconfig.dev.json
+/Users/claudiotapia/Desktop/HOla/VariablesConsola/VariablesConsola/bin/Debug/netcoreapp2.1/VariablesConsola.dll
+/Users/claudiotapia/Desktop/HOla/VariablesConsola/VariablesConsola/bin/Debug/netcoreapp2.1/VariablesConsola.pdb
+/Users/claudiotapia/Desktop/HOla/VariablesConsola/VariablesConsola/obj/Debug/netcoreapp2.1/VariablesConsola.csprojAssemblyReference.cache
+/Users/claudiotapia/Desktop/HOla/VariablesConsola/VariablesConsola/obj/Debug/netcoreapp2.1/VariablesConsola.csproj.CoreCompileInputs.cache
+/Users/claudiotapia/Desktop/HOla/VariablesConsola/VariablesConsola/obj/Debug/netcoreapp2.1/VariablesConsola.AssemblyInfoInputs.cache
+/Users/claudiotapia/Desktop/HOla/VariablesConsola/VariablesConsola/obj/Debug/netcoreapp2.1/VariablesConsola.AssemblyInfo.cs
+/Users/claudiotapia/Desktop/HOla/VariablesConsola/VariablesConsola/obj/Debug/netcoreapp2.1/VariablesConsola.dll
+/Users/claudiotapia/Desktop/HOla/VariablesConsola/VariablesConsola/obj/Debug/netcoreapp2.1/VariablesConsola.pdb
