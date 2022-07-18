@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4BFE73C4-8350-41CC-A18D-27AE0ED7D198}|Default">
+  <MonoDevelop.Ide.ItemProperties.numeroMayorMenorArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="numeroMayorMenorArray/Program.cs">
+    <Files>
+      <File FileName="numeroMayorMenorArray/Program.cs" Line="25" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
