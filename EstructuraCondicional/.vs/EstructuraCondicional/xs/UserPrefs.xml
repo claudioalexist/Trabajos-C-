@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{854A8634-598C-43CE-A2A7-0CB77484EADA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EstructuraCondicional/Program.cs">
+    <Files>
+      <File FileName="EstructuraCondicional/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.EstructuraCondicional PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
