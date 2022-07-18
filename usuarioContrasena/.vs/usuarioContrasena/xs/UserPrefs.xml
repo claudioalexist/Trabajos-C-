@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{734EE147-AF21-461B-A8FE-7E051F998343}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="usuarioContrasena/Program.cs">
+    <Files>
+      <File FileName="usuarioContrasena/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="usuarioContrasena/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="usuarioContrasena" expanded="True">
+            <Node name="usuarioContrasena" expanded="True" selected="True">
+              <Node name="WebViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.usuarioContrasena FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.usuarioContrasena>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
